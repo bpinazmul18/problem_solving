@@ -1,0 +1,24 @@
+{
+  "name": "problem_solving",
+  "version": "1.0.0",
+  "description": "This is my problem solving repo for track the problem",
+  "main": "WeirdAlgorithm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpinazmul18/problem_solving.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bpinazmul18/problem_solving/issues"
+  },
+  "homepage": "https://github.com/bpinazmul18/problem_solving#readme",
+  "devDependencies": {
+    "@types/node": "^22.15.21"
+  }
+}
